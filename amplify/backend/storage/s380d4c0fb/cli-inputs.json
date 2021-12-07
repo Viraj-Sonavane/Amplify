@@ -1,0 +1,14 @@
+{
+  "resourceName": "s380d4c0fb",
+  "policyUUID": "80d4c0fb",
+  "bucketName": "tradespot21df25056e50452db7a9fd1e2d89423c",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
